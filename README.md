@@ -1,2 +1,1 @@
-# harjutamine
- versioonihalduse harjutamine
+# noted
